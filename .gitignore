@@ -1,0 +1,19 @@
+# Ableton Live
+*.als.bak
+Backup/
+*.livepack
+
+# Sample analysis files (Ableton auto-generates these)
+*.asd
+
+# Large audio files - source from samples/README.md
+samples/audio/
+*.wav
+*.aif
+*.aiff
+*.mp3
+*.flac
+*.ogg
+
+# System
+.DS_Store

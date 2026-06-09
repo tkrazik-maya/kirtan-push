@@ -1,0 +1,25 @@
+name: Feature / Enhancement
+description: New feature or improvement to the kirtan rig
+labels: ["enhancement"]
+body:
+  - type: input
+    id: summary
+    attributes:
+      label: What
+      description: One-line description of the change
+    validations:
+      required: true
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Why
+      description: What performance problem does this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: Detail
+      description: Specific tracks, racks, Push mappings, samples, or raga changes affected
+    validations:
+      required: false
