@@ -38,6 +38,7 @@
 
 *(add entries as pairings are tested — date, what worked, what the register turned out to be)*
 
+- 2026-07-08 — **Puff, layer 0:** Thomas's mother sang it to him as a baby. It is the origin song of the entire sonic profile — the "soothed by murmuring voice" thread that everything else (KD, Garvey, Moyet) echoes. Performing it = taking up his mother's telling. Arrangement implication: lullaby register — low, close-mic, intimate; the room opens only at the final chorus (the return).
 - 2026-07-07 — Book v2: rebuilt from Thomas's sonic profile. Twameva/Only You identified as the anchor (literal translation match on the bullseye track). None yet tested at the instrument.
 
 ---
